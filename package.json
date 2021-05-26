@@ -1,0 +1,14 @@
+{
+  "name": "masterlogica",
+  "version": "1.0.0",
+  "description": "Ejercicios de logica",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ronald Vezga",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.0.1"
+  }
+}
