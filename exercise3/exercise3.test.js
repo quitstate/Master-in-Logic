@@ -1,6 +1,6 @@
 const coincidences = require('./exercise3');
 
-test("Check if a function coincidences is define", () => {
+test("Check if function coincidences is define", () => {
     expect(coincidences).toBeDefined();
 });
 
