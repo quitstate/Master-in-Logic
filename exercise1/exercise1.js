@@ -1,11 +1,17 @@
-test("Check if a function palindromo is define", () => {
-  expect(palindromo).toBeDefined();
-});
+/*
+    Exercise 1: given a number, return its complete multiplication table
+*/
 
-test("Is a Palindromo", () => {
-    expect(palindromo("otto")).toEqual(true);
-})
+const multiplicationTable = (number) => {
+    const arrayResults = [];
+    arrayResults.push(`# Tabla del ${number}#`);
+    for (let counter = 1; counter < 11; counter++) {
+        const result = counter * number;
+        arrayResults.push(`${counter} x ${number} = ${result}`);
+    }
+    return arrayResults;
+}
 
-test("Is not a Palindromo", () => {
-    expect(palindromo("Pedro")).toEqual(false);
-})
+multiplicationTable(5);
+
+module.exports = multiplicationTable;
