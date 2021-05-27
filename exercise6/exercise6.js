@@ -20,6 +20,4 @@ const drawSide = (number) => {
   return side;
 };
 
-console.log(drawRectangle(5));
-
 module.exports = {drawRectangle, drawSide};
