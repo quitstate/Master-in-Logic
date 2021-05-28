@@ -8,6 +8,4 @@ const downToZero = (number) => {
     return result;
 }
 
-console.log(downToZero(100));
-
 module.exports = downToZero;

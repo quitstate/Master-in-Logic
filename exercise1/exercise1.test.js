@@ -1,7 +1,7 @@
 const multiplicationTable = require("./exercise1");
 
 const arrayCheck = [
-  "# Tabla del 5#",
+  "# Table from 5#",
   "1 x 5 = 5",
   "2 x 5 = 10",
   "3 x 5 = 15",

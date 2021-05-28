@@ -12,6 +12,5 @@ const censored = (sentece, word) => {
   );
   return sentenceCensored;
 };
-console.log(censored("hello, how are you!!!!, hello, hello", "hello"));
 
 module.exports = censored;

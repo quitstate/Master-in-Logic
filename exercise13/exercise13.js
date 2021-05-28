@@ -11,6 +11,4 @@ const divideArray = (arr, number) => {
   return arrayResult;
 };
 
-console.log(divideArray([7, 8, 9, 10, 5], 3));
-
 module.exports = divideArray;

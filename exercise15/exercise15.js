@@ -12,7 +12,7 @@ const mostUsedLetter = (string) => {
   }
 
   for (const letter in allLetters) {
-    if (allLetters[letter] > maxRepetitions) {
+    if (allLetters[letter].toString().trim() && allLetters[letter] > maxRepetitions) {
       maxRepetitions = allLetters[letter];
       letterMostUsed = letter;
     }
@@ -21,7 +21,5 @@ const mostUsedLetter = (string) => {
   result += letterMostUsed;
   return result;
 };
-
-console.log(mostUsedLetter("cheeeeeeeeeck me"));
 
 module.exports = mostUsedLetter;

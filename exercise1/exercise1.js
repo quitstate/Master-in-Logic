@@ -4,7 +4,7 @@
 
 const multiplicationTable = (number) => {
     const arrayResults = [];
-    arrayResults.push(`# Tabla del ${number}#`);
+    arrayResults.push(`# Table from ${number}#`);
     for (let counter = 1; counter < 11; counter++) {
         const result = counter * number;
         arrayResults.push(`${counter} x ${number} = ${result}`);
