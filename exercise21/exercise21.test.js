@@ -11,5 +11,5 @@ test("Check the function reduceString without the correct params", () => {
 });
 
 test("Check the function reduceString with the correct params", () => {
-  expect(reduceString("hola mundo", 4)).toEqual("hola");
+  expect(reduceString("hello world", 5)).toEqual("hello");
 });

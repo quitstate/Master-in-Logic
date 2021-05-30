@@ -5,5 +5,5 @@ test("Check if function wordsToUpperCase is define", () => {
 });
 
 test("Check the function wordsToUpperCase", () => {
-  expect(wordsToUpperCase("hola como estas")).toEqual("Hola Como Estas");
+  expect(wordsToUpperCase("hello how are you")).toEqual("Hello How Are You");
 });
