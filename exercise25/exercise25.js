@@ -44,6 +44,4 @@ const checkUpperOrLowerCase = (string) => {
   }
 };
 
-console.log(checkUpperOrLowerCase("Victor"));
-
 module.exports = checkUpperOrLowerCase;

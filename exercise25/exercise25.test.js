@@ -5,7 +5,7 @@ test('Check if function checkUpperOrLowerCase is define', () => {
 })
 
 test('Check the function checkUpperOrLowerCase when I have more uppercase letters', () => {
-    expect(checkUpperOrLowerCase("PRUEba")).toEqual("PRUEBA");
+    expect(checkUpperOrLowerCase("TESt")).toEqual("TEST");
 })
 
 test('Check the function checkUpperOrLowerCase when I have more lowercase letters', () => {
