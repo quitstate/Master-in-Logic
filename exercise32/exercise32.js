@@ -3,7 +3,7 @@ const squareArray = (array) => {
     return typeof number === "number";
   });
   const result = arrayNumbers.map((number) => {
-    return number * number;
+    return Math.pow(number,2);
   });
   return result;
 };
