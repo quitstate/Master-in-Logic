@@ -1,13 +1,13 @@
 const getAllSubStrings = (word) => {
     let substrings = [];
-    for (const letter in word) {
-        let start = letter;
-        for (let i = 0; i < word.length; i++) {
-            let end = (parseInt(i)  + parseInt(start));
-            substrings.push(word.substrings(start,end));
+    for (letter in word) {
+        let start = parseInt(letter);
+        for (let i = 0; i <= word.length - start; i++) {
+            let end = start + i;
+            substrings.push(word.substring(start,end));
         }
     }
-    return substrings;
+    return substrings.filter(element => element.length >= 1);
 }
 
 console.log(getAllSubStrings("hello"))
