@@ -5,5 +5,5 @@ test("Check if function invert is define", () => {
 });
 
 test("Check the function invert", () => {
-    expect(invert("hola")).toEqual("aloh");
+    expect(invert("hello")).toEqual("olleh");
 })
