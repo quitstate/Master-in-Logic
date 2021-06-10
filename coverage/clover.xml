@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1623299133562" clover="3.2.0">
-  <project timestamp="1623299133563" name="All files">
-    <metrics statements="743" coveredstatements="743" conditionals="169" coveredconditionals="169" methods="53" coveredmethods="53" elements="965" coveredelements="965" complexity="0" loc="743" ncloc="743" packages="48" files="48" classes="48"/>
+<coverage generated="1623299543270" clover="3.2.0">
+  <project timestamp="1623299543270" name="All files">
+    <metrics statements="758" coveredstatements="758" conditionals="175" coveredconditionals="175" methods="54" coveredmethods="54" elements="987" coveredelements="987" complexity="0" loc="758" ncloc="758" packages="49" files="49" classes="49"/>
     <package name="exercise1">
       <metrics statements="17" coveredstatements="17" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
       <file name="exercise1.js" path="C:\Users\quits\Documents\Curriculo Ronald Vezga Colombia 2021\Cursos\MasterLogica\exercise1\exercise1.js">
@@ -960,6 +960,27 @@
         <line num="5" count="1" type="stmt"/>
         <line num="6" count="1" type="stmt"/>
         <line num="7" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="exercise50">
+      <metrics statements="15" coveredstatements="15" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+      <file name="exercise50.js" path="C:\Users\quits\Documents\Curriculo Ronald Vezga Colombia 2021\Cursos\MasterLogica\exercise50\exercise50.js">
+        <metrics statements="15" coveredstatements="15" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
       </file>
     </package>
     <package name="exercise6">
