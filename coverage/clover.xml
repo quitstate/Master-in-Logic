@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1623297898902" clover="3.2.0">
-  <project timestamp="1623297898902" name="All files">
-    <metrics statements="708" coveredstatements="708" conditionals="160" coveredconditionals="160" methods="51" coveredmethods="51" elements="919" coveredelements="919" complexity="0" loc="708" ncloc="708" packages="46" files="46" classes="46"/>
+<coverage generated="1623298612939" clover="3.2.0">
+  <project timestamp="1623298612939" name="All files">
+    <metrics statements="726" coveredstatements="726" conditionals="167" coveredconditionals="167" methods="52" coveredmethods="52" elements="945" coveredelements="945" complexity="0" loc="726" ncloc="726" packages="47" files="47" classes="47"/>
     <package name="exercise1">
       <metrics statements="17" coveredstatements="17" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
       <file name="exercise1.js" path="C:\Users\quits\Documents\Curriculo Ronald Vezga Colombia 2021\Cursos\MasterLogica\exercise1\exercise1.js">
@@ -859,9 +859,9 @@
       </file>
     </package>
     <package name="exercise47">
-      <metrics statements="38" coveredstatements="38" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+      <metrics statements="36" coveredstatements="36" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
       <file name="exercise47.js" path="C:\Users\quits\Documents\Curriculo Ronald Vezga Colombia 2021\Cursos\MasterLogica\exercise47\exercise47.js">
-        <metrics statements="38" coveredstatements="38" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+        <metrics statements="36" coveredstatements="36" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
@@ -882,24 +882,48 @@
         <line num="18" count="1" type="stmt"/>
         <line num="19" count="1" type="stmt"/>
         <line num="20" count="1" type="cond" truecount="1" falsecount="0"/>
-        <line num="21" count="2" type="stmt"/>
-        <line num="22" count="2" type="stmt"/>
-        <line num="23" count="2" type="cond" truecount="1" falsecount="0"/>
-        <line num="24" count="8" type="cond" truecount="1" falsecount="0"/>
-        <line num="25" count="26" type="cond" truecount="1" falsecount="0"/>
-        <line num="26" count="16" type="stmt"/>
-        <line num="27" count="26" type="cond" truecount="1" falsecount="0"/>
-        <line num="28" count="10" type="stmt"/>
-        <line num="29" count="10" type="stmt"/>
-        <line num="30" count="26" type="stmt"/>
-        <line num="31" count="8" type="stmt"/>
-        <line num="32" count="2" type="stmt"/>
-        <line num="33" count="2" type="stmt"/>
-        <line num="34" count="2" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="23" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="24" count="4" type="cond" truecount="1" falsecount="0"/>
+        <line num="25" count="13" type="cond" truecount="1" falsecount="0"/>
+        <line num="26" count="8" type="stmt"/>
+        <line num="27" count="13" type="cond" truecount="1" falsecount="0"/>
+        <line num="28" count="5" type="stmt"/>
+        <line num="29" count="5" type="stmt"/>
+        <line num="30" count="13" type="stmt"/>
+        <line num="31" count="4" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
         <line num="35" count="1" type="stmt"/>
         <line num="36" count="1" type="stmt"/>
-        <line num="37" count="1" type="stmt"/>
-        <line num="38" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="exercise48">
+      <metrics statements="20" coveredstatements="20" conditionals="7" coveredconditionals="7" methods="1" coveredmethods="1"/>
+      <file name="exercise48.js" path="C:\Users\quits\Documents\Curriculo Ronald Vezga Colombia 2021\Cursos\MasterLogica\exercise48\exercise48.js">
+        <metrics statements="20" coveredstatements="20" conditionals="7" coveredconditionals="7" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="5" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="6" count="21" type="cond" truecount="1" falsecount="0"/>
+        <line num="7" count="11" type="stmt"/>
+        <line num="8" count="21" type="cond" truecount="1" falsecount="0"/>
+        <line num="9" count="10" type="stmt"/>
+        <line num="10" count="10" type="stmt"/>
+        <line num="11" count="21" type="stmt"/>
+        <line num="12" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="13" count="10" type="cond" truecount="1" falsecount="0"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="15" count="5" type="stmt"/>
+        <line num="16" count="10" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
       </file>
     </package>
     <package name="exercise5">
