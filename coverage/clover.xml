@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1623299543270" clover="3.2.0">
-  <project timestamp="1623299543270" name="All files">
-    <metrics statements="758" coveredstatements="758" conditionals="175" coveredconditionals="175" methods="54" coveredmethods="54" elements="987" coveredelements="987" complexity="0" loc="758" ncloc="758" packages="49" files="49" classes="49"/>
+<coverage generated="1623299867155" clover="3.2.0">
+  <project timestamp="1623299867155" name="All files">
+    <metrics statements="766" coveredstatements="766" conditionals="178" coveredconditionals="178" methods="55" coveredmethods="55" elements="999" coveredelements="999" complexity="0" loc="766" ncloc="766" packages="50" files="50" classes="50"/>
     <package name="exercise1">
       <metrics statements="17" coveredstatements="17" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
       <file name="exercise1.js" path="C:\Users\quits\Documents\Curriculo Ronald Vezga Colombia 2021\Cursos\MasterLogica\exercise1\exercise1.js">
@@ -981,6 +981,20 @@
         <line num="13" count="1" type="stmt"/>
         <line num="14" count="1" type="stmt"/>
         <line num="15" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="exercise51">
+      <metrics statements="8" coveredstatements="8" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <file name="exercise51.js" path="C:\Users\quits\Documents\Curriculo Ronald Vezga Colombia 2021\Cursos\MasterLogica\exercise51\exercise51.js">
+        <metrics statements="8" coveredstatements="8" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="4" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
       </file>
     </package>
     <package name="exercise6">
